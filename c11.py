@@ -37,23 +37,5 @@ img.show()
 # 			odd.putpixel((i//2,j//2), img.getpixel((i,j)))
 # 		else:
 # 			even.putpixel((i//2,j//2), img.getpixel((i,j)))
-
 # odd.show()
 # even.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
